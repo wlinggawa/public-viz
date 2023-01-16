@@ -9,7 +9,13 @@ test embed iframe metabase
 <iframe
     src="https://lumos.otoklix.com/public/dashboard/70266ade-03b6-408b-bfda-6f5fc05b1811"
     frameborder="0"
-    width="800"
-    height="600"
+    width="100%"
+    height="500"
     allowtransparency
 ></iframe>
+
+test embed iframe amplitude
+<iframe class="frame"
+  src="https://analytics.amplitude.com/share/embed/69576f98-6084-421f-9717-56864205d40d"
+  frameBorder="0" width="100%" height="500">
+</iframe>

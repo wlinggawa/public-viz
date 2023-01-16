@@ -7,7 +7,7 @@ test embed iframe youtube
 
 test embed iframe metabase
 <iframe
-    src="http://lumos.otoklix.com/public/dashboard/70266ade-03b6-408b-bfda-6f5fc05b1811"
+    src="https://lumos.otoklix.com/public/dashboard/70266ade-03b6-408b-bfda-6f5fc05b1811"
     frameborder="0"
     width="800"
     height="600"
